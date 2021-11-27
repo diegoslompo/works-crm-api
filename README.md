@@ -45,8 +45,8 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE
-    $ cd workers-crm-api9
+    $ git clone https://github.com/YOUR_USERNAME/WORKERS-CRM-api
+    $ cd workers-crm-api
     $ yarn install
 
 ## Running the project
